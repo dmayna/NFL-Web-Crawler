@@ -34,6 +34,8 @@ def crawl_nfl_roster(url, teams):
                             else:
                                 num =  oPlayer.text[-1:]
                             name = oPlayer.text[:-len(num)]
+                            if name in players.keys():
+                                 name = name + " " + team.split("/")[0].upper()
                             players[name] = {}
                             players[name]["num"] = num
                             players[name]["team"] = team.split("/")[0]
@@ -66,6 +68,8 @@ def crawl_nfl_roster(url, teams):
                             else:
                                 num =  dPlayer.text[-1:]
                             name = dPlayer.text[:-len(num)]
+                            if name in players.keys():
+                                  name = name + " " + team.split("/")[0].upper()
                             players[name] = {}
                             players[name]["num"] = num
                             players[name]["team"] = team.split("/")[0]
