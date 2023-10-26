@@ -93,6 +93,7 @@ nfl_teams = [
      "mia/miami-dolphins",
      "ne/new-england-patriots",
      "nyj/new-york-jets",
+     "kc/kansas-city-chiefs",
      "den/denver-broncos",
      "lv/las-vegas-raiders",
      "lac/los-angeles-chargers",

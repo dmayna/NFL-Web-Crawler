@@ -2379,8 +2379,8 @@
         "exp": "5",
         "college": "Iowa State"
     },
-    "Lance McCutcheo": {
-        "num": "n",
+    "Lance McCutcheon": {
+        "num": "85",
         "team": "nyj",
         "pos": "WR",
         "age": "24",
@@ -2958,6 +2958,726 @@
         "weight": "198 lbs",
         "exp": "6",
         "college": "Pittsburgh"
+    },
+    "Blaine Gabbert": {
+        "num": "9",
+        "team": "kc",
+        "pos": "QB",
+        "age": "34",
+        "height": "6' 5\"",
+        "weight": "235 lbs",
+        "exp": "12",
+        "college": "Missouri"
+    },
+    "Patrick Mahomes": {
+        "num": "15",
+        "team": "kc",
+        "pos": "QB",
+        "age": "28",
+        "height": "6' 2\"",
+        "weight": "225 lbs",
+        "exp": "7",
+        "college": "Texas Tech"
+    },
+    "Chris Oladokun": {
+        "num": "6",
+        "team": "kc",
+        "pos": "QB",
+        "age": "26",
+        "height": "6' 2\"",
+        "weight": "195 lbs",
+        "exp": "1",
+        "college": "South Dakota State"
+    },
+    "Clyde Edwards-Helaire": {
+        "num": "25",
+        "team": "kc",
+        "pos": "RB",
+        "age": "24",
+        "height": "5' 7\"",
+        "weight": "207 lbs",
+        "exp": "4",
+        "college": "LSU"
+    },
+    "Jerick McKinnon": {
+        "num": "1",
+        "team": "kc",
+        "pos": "RB",
+        "age": "31",
+        "height": "5' 9\"",
+        "weight": "209 lbs",
+        "exp": "10",
+        "college": "Georgia Southern"
+    },
+    "Isiah Pacheco": {
+        "num": "10",
+        "team": "kc",
+        "pos": "RB",
+        "age": "24",
+        "height": "5' 10\"",
+        "weight": "216 lbs",
+        "exp": "2",
+        "college": "Rutgers"
+    },
+    "Deneric Prince": {
+        "num": "34",
+        "team": "kc",
+        "pos": "RB",
+        "age": "23",
+        "height": "6' 0\"",
+        "weight": "216 lbs",
+        "exp": "R",
+        "college": "Tulsa"
+    },
+    "Chase Cot": {
+        "num": "a",
+        "team": "kc",
+        "pos": "WR",
+        "age": "23",
+        "height": "6' 4\"",
+        "weight": "200 lbs",
+        "exp": "R",
+        "college": "Oregon"
+    },
+    "Mecole Hardman Jr.": {
+        "num": "12",
+        "team": "kc",
+        "pos": "WR",
+        "age": "25",
+        "height": "5' 10\"",
+        "weight": "187 lbs",
+        "exp": "5",
+        "college": "Georgia"
+    },
+    "Richie James": {
+        "num": "17",
+        "team": "kc",
+        "pos": "WR",
+        "age": "28",
+        "height": "5' 9\"",
+        "weight": "185 lbs",
+        "exp": "6",
+        "college": "Middle Tennessee"
+    },
+    "Skyy Moore": {
+        "num": "24",
+        "team": "kc",
+        "pos": "WR",
+        "age": "23",
+        "height": "5' 10\"",
+        "weight": "195 lbs",
+        "exp": "2",
+        "college": "Western Michigan"
+    },
+    "Cornell Powell": {
+        "num": "14",
+        "team": "kc",
+        "pos": "WR",
+        "age": "25",
+        "height": "6' 0\"",
+        "weight": "204 lbs",
+        "exp": "1",
+        "college": "Clemson"
+    },
+    "Nikko Remigio": {
+        "num": "27",
+        "team": "kc",
+        "pos": "WR",
+        "age": "23",
+        "height": "5' 9\"",
+        "weight": "187 lbs",
+        "exp": "R",
+        "college": "Fresno State"
+    },
+    "Rashee Rice": {
+        "num": "4",
+        "team": "kc",
+        "pos": "WR",
+        "age": "23",
+        "height": "6' 1\"",
+        "weight": "204 lbs",
+        "exp": "R",
+        "college": "SMU"
+    },
+    "Justyn Ross": {
+        "num": "8",
+        "team": "kc",
+        "pos": "WR",
+        "age": "23",
+        "height": "6' 4\"",
+        "weight": "210 lbs",
+        "exp": "2",
+        "college": "Clemson"
+    },
+    "Kadarius Toney": {
+        "num": "19",
+        "team": "kc",
+        "pos": "WR",
+        "age": "24",
+        "height": "6' 0\"",
+        "weight": "193 lbs",
+        "exp": "3",
+        "college": "Florida"
+    },
+    "Marquez Valdes-Scantling": {
+        "num": "11",
+        "team": "kc",
+        "pos": "WR",
+        "age": "29",
+        "height": "6' 4\"",
+        "weight": "206 lbs",
+        "exp": "6",
+        "college": "South Florida"
+    },
+    "Montrell Washington": {
+        "num": "12",
+        "team": "kc",
+        "pos": "WR",
+        "age": "24",
+        "height": "5' 10\"",
+        "weight": "170 lbs",
+        "exp": "2",
+        "college": "Samford"
+    },
+    "Justin Watson": {
+        "num": "84",
+        "team": "kc",
+        "pos": "WR",
+        "age": "27",
+        "height": "6' 2\"",
+        "weight": "215 lbs",
+        "exp": "6",
+        "college": "Pennsylvania"
+    },
+    "Blake Bell": {
+        "num": "81",
+        "team": "kc",
+        "pos": "TE",
+        "age": "32",
+        "height": "6' 6\"",
+        "weight": "252 lbs",
+        "exp": "9",
+        "college": "Oklahoma"
+    },
+    "Matt Bushman": {
+        "num": "49",
+        "team": "kc",
+        "pos": "TE",
+        "age": "27",
+        "height": "6' 5\"",
+        "weight": "245 lbs",
+        "exp": "1",
+        "college": "BYU"
+    },
+    "Jody Fortson": {
+        "num": "88",
+        "team": "kc",
+        "pos": "TE",
+        "age": "27",
+        "height": "6' 4\"",
+        "weight": "226 lbs",
+        "exp": "3",
+        "college": "Valdosta State"
+    },
+    "Noah Gray": {
+        "num": "83",
+        "team": "kc",
+        "pos": "TE",
+        "age": "24",
+        "height": "6' 3\"",
+        "weight": "240 lbs",
+        "exp": "3",
+        "college": "Duke"
+    },
+    "Travis Kelce": {
+        "num": "87",
+        "team": "kc",
+        "pos": "TE",
+        "age": "34",
+        "height": "6' 5\"",
+        "weight": "250 lbs",
+        "exp": "11",
+        "college": "Cincinnati"
+    },
+    "Gerrit Princ": {
+        "num": "e",
+        "team": "kc",
+        "pos": "TE",
+        "age": "26",
+        "height": "6' 5\"",
+        "weight": "240 lbs",
+        "exp": "1",
+        "college": "UAB"
+    },
+    "Creed Humphrey": {
+        "num": "52",
+        "team": "kc",
+        "pos": "C",
+        "age": "24",
+        "height": "6' 4\"",
+        "weight": "302 lbs",
+        "exp": "3",
+        "college": "Oklahoma"
+    },
+    "Austin Reiter": {
+        "num": "61",
+        "team": "kc",
+        "pos": "C",
+        "age": "31",
+        "height": "6' 3\"",
+        "weight": "301 lbs",
+        "exp": "7",
+        "college": "South Florida"
+    },
+    "Nick Allegretti": {
+        "num": "73",
+        "team": "kc",
+        "pos": "G",
+        "age": "27",
+        "height": "6' 4\"",
+        "weight": "310 lbs",
+        "exp": "5",
+        "college": "Illinois"
+    },
+    "Mike Caliendo": {
+        "num": "66",
+        "team": "kc",
+        "pos": "G",
+        "age": "26",
+        "height": "6' 4\"",
+        "weight": "301 lbs",
+        "exp": "1",
+        "college": "Western Michigan"
+    },
+    "Trey Smith": {
+        "num": "65",
+        "team": "kc",
+        "pos": "G",
+        "age": "24",
+        "height": "6' 6\"",
+        "weight": "321 lbs",
+        "exp": "3",
+        "college": "Tennessee"
+    },
+    "Joe Thuney": {
+        "num": "62",
+        "team": "kc",
+        "pos": "G",
+        "age": "30",
+        "height": "6' 5\"",
+        "weight": "304 lbs",
+        "exp": "8",
+        "college": "NC State"
+    },
+    "Chukwuebuka Godrick": {
+        "num": "72",
+        "team": "kc",
+        "pos": "OT",
+        "age": "23",
+        "height": "6' 5\"",
+        "weight": "295 lbs",
+        "exp": "R",
+        "college": "--"
+    },
+    "Darian Kinnard": {
+        "num": "75",
+        "team": "kc",
+        "pos": "OT",
+        "age": "23",
+        "height": "6' 5\"",
+        "weight": "322 lbs",
+        "exp": "2",
+        "college": "Kentucky"
+    },
+    "Wanya Morris": {
+        "num": "64",
+        "team": "kc",
+        "pos": "OT",
+        "age": "23",
+        "height": "6' 6\"",
+        "weight": "307 lbs",
+        "exp": "R",
+        "college": "Oklahoma"
+    },
+    "Lucas Niang": {
+        "num": "77",
+        "team": "kc",
+        "pos": "OT",
+        "age": "25",
+        "height": "6' 6\"",
+        "weight": "315 lbs",
+        "exp": "3",
+        "college": "TCU"
+    },
+    "Donovan Smith": {
+        "num": "79",
+        "team": "kc",
+        "pos": "OT",
+        "age": "30",
+        "height": "6' 6\"",
+        "weight": "338 lbs",
+        "exp": "9",
+        "college": "Penn State"
+    },
+    "Jawaan Taylor": {
+        "num": "74",
+        "team": "kc",
+        "pos": "OT",
+        "age": "25",
+        "height": "6' 5\"",
+        "weight": "330 lbs",
+        "exp": "5",
+        "college": "Florida"
+    },
+    "Prince Tega Wanogho": {
+        "num": "76",
+        "team": "kc",
+        "pos": "OT",
+        "age": "25",
+        "height": "6' 5\"",
+        "weight": "308 lbs",
+        "exp": "3",
+        "college": "Auburn"
+    },
+    "Felix Anudike-Uzomah": {
+        "num": "97",
+        "team": "kc",
+        "pos": "DE",
+        "age": "21",
+        "height": "6' 4\"",
+        "weight": "255 lbs",
+        "exp": "R",
+        "college": "Kansas State"
+    },
+    "Mike Danna": {
+        "num": "51",
+        "team": "kc",
+        "pos": "DE",
+        "age": "25",
+        "height": "6' 2\"",
+        "weight": "257 lbs",
+        "exp": "4",
+        "college": "Michigan"
+    },
+    "Neil Farrell": {
+        "num": "92",
+        "team": "kc",
+        "pos": "DE",
+        "age": "25",
+        "height": "6' 4\"",
+        "weight": "325 lbs",
+        "exp": "2",
+        "college": "LSU"
+    },
+    "Malik Herring": {
+        "num": "94",
+        "team": "kc",
+        "pos": "DE",
+        "age": "25",
+        "height": "6' 3\"",
+        "weight": "275 lbs",
+        "exp": "3",
+        "college": "Georgia"
+    },
+    "Truman Jones": {
+        "num": "57",
+        "team": "kc",
+        "pos": "DE",
+        "age": "23",
+        "height": "6' 4\"",
+        "weight": "250 lbs",
+        "exp": "R",
+        "college": "Harvard"
+    },
+    "George Karlaftis": {
+        "num": "56",
+        "team": "kc",
+        "pos": "DE",
+        "age": "22",
+        "height": "6' 4\"",
+        "weight": "263 lbs",
+        "exp": "2",
+        "college": "Purdue"
+    },
+    "Charles Omenihu": {
+        "num": "90",
+        "team": "kc",
+        "pos": "DE",
+        "age": "26",
+        "height": "6' 5\"",
+        "weight": "280 lbs",
+        "exp": "5",
+        "college": "Texas"
+    },
+    "BJ Thompson": {
+        "num": "53",
+        "team": "kc",
+        "pos": "DE",
+        "age": "24",
+        "height": "6' 6\"",
+        "weight": "243 lbs",
+        "exp": "R",
+        "college": "Stephen F. Austin"
+    },
+    "Matt Dickerson": {
+        "num": "93",
+        "team": "kc",
+        "pos": "DT",
+        "age": "27",
+        "height": "6' 5\"",
+        "weight": "292 lbs",
+        "exp": "3",
+        "college": "UCLA"
+    },
+    "Chris Jones": {
+        "num": "95",
+        "team": "kc",
+        "pos": "DT",
+        "age": "29",
+        "height": "6' 6\"",
+        "weight": "310 lbs",
+        "exp": "8",
+        "college": "Mississippi State"
+    },
+    "Derrick Nnadi": {
+        "num": "91",
+        "team": "kc",
+        "pos": "DT",
+        "age": "27",
+        "height": "6' 1\"",
+        "weight": "317 lbs",
+        "exp": "6",
+        "college": "Florida State"
+    },
+    "Mike Pennel Jr": {
+        "num": ".",
+        "team": "kc",
+        "pos": "DT",
+        "age": "32",
+        "height": "6' 4\"",
+        "weight": "332 lbs",
+        "exp": "10",
+        "college": "CSU Pueblo"
+    },
+    "Tershawn Wharton": {
+        "num": "98",
+        "team": "kc",
+        "pos": "DT",
+        "age": "25",
+        "height": "6' 1\"",
+        "weight": "280 lbs",
+        "exp": "4",
+        "college": "Missouri S&T"
+    },
+    "Nick Bolton": {
+        "num": "32",
+        "team": "kc",
+        "pos": "LB",
+        "age": "23",
+        "height": "5' 11\"",
+        "weight": "237 lbs",
+        "exp": "3",
+        "college": "Missouri"
+    },
+    "Leo Chenal": {
+        "num": "54",
+        "team": "kc",
+        "pos": "LB",
+        "age": "22",
+        "height": "6' 3\"",
+        "weight": "250 lbs",
+        "exp": "2",
+        "college": "Wisconsin"
+    },
+    "Cole Christiansen": {
+        "num": "48",
+        "team": "kc",
+        "pos": "LB",
+        "age": "26",
+        "height": "6' 1\"",
+        "weight": "230 lbs",
+        "exp": "1",
+        "college": "Army"
+    },
+    "Jack Cochrane": {
+        "num": "43",
+        "team": "kc",
+        "pos": "LB",
+        "age": "24",
+        "height": "6' 3\"",
+        "weight": "236 lbs",
+        "exp": "2",
+        "college": "South Dakota"
+    },
+    "Willie Gay": {
+        "num": "50",
+        "team": "kc",
+        "pos": "LB",
+        "age": "25",
+        "height": "6' 1\"",
+        "weight": "243 lbs",
+        "exp": "4",
+        "college": "Mississippi State"
+    },
+    "Cam Jones": {
+        "num": "44",
+        "team": "kc",
+        "pos": "LB",
+        "age": "24",
+        "height": "6' 2\"",
+        "weight": "227 lbs",
+        "exp": "R",
+        "college": "Indiana"
+    },
+    "Isaiah Moor": {
+        "num": "e",
+        "team": "kc",
+        "pos": "LB",
+        "age": "24",
+        "height": "6' 1\"",
+        "weight": "232 lbs",
+        "exp": "R",
+        "college": "NC State"
+    },
+    "Drue Tranquill": {
+        "num": "23",
+        "team": "kc",
+        "pos": "LB",
+        "age": "28",
+        "height": "6' 2\"",
+        "weight": "234 lbs",
+        "exp": "5",
+        "college": "Notre Dame"
+    },
+    "Ekow Boye-Doe": {
+        "num": "40",
+        "team": "kc",
+        "pos": "CB",
+        "age": "23",
+        "height": "6' 0\"",
+        "weight": "171 lbs",
+        "exp": "R",
+        "college": "Kansas State"
+    },
+    "Nic Jones": {
+        "num": "31",
+        "team": "kc",
+        "pos": "CB",
+        "age": "22",
+        "height": "6' 0\"",
+        "weight": "189 lbs",
+        "exp": "R",
+        "college": "Ball State"
+    },
+    "Trent McDuffie": {
+        "num": "22",
+        "team": "kc",
+        "pos": "CB",
+        "age": "23",
+        "height": "5' 11\"",
+        "weight": "193 lbs",
+        "exp": "2",
+        "college": "Washington"
+    },
+    "L'Jarius Sneed": {
+        "num": "38",
+        "team": "kc",
+        "pos": "CB",
+        "age": "26",
+        "height": "6' 1\"",
+        "weight": "192 lbs",
+        "exp": "4",
+        "college": "Louisiana Tech"
+    },
+    "Keith Taylor Jr.": {
+        "num": "39",
+        "team": "kc",
+        "pos": "CB",
+        "age": "24",
+        "height": "6' 3\"",
+        "weight": "195 lbs",
+        "exp": "3",
+        "college": "Washington"
+    },
+    "Jaylen Watson": {
+        "num": "35",
+        "team": "kc",
+        "pos": "CB",
+        "age": "25",
+        "height": "6' 2\"",
+        "weight": "197 lbs",
+        "exp": "2",
+        "college": "Washington State"
+    },
+    "Joshua Williams": {
+        "num": "2",
+        "team": "kc",
+        "pos": "CB",
+        "age": "24",
+        "height": "6' 3\"",
+        "weight": "193 lbs",
+        "exp": "2",
+        "college": "Fayetteville State"
+    },
+    "Deon Bush": {
+        "num": "26",
+        "team": "kc",
+        "pos": "S",
+        "age": "30",
+        "height": "6' 0\"",
+        "weight": "200 lbs",
+        "exp": "8",
+        "college": "Miami"
+    },
+    "Chamarri Conner": {
+        "num": "27",
+        "team": "kc",
+        "pos": "S",
+        "age": "23",
+        "height": "6' 0\"",
+        "weight": "206 lbs",
+        "exp": "R",
+        "college": "Virginia Tech"
+    },
+    "Bryan Cook": {
+        "num": "6",
+        "team": "kc",
+        "pos": "S",
+        "age": "24",
+        "height": "6' 1\"",
+        "weight": "206 lbs",
+        "exp": "2",
+        "college": "Cincinnati"
+    },
+    "Mike Edwards": {
+        "num": "21",
+        "team": "kc",
+        "pos": "S",
+        "age": "27",
+        "height": "5' 10\"",
+        "weight": "205 lbs",
+        "exp": "5",
+        "college": "Kentucky"
+    },
+    "Nazeeh Johnson": {
+        "num": "13",
+        "team": "kc",
+        "pos": "S",
+        "age": "25",
+        "height": "5' 10\"",
+        "weight": "199 lbs",
+        "exp": "2",
+        "college": "Marshall"
+    },
+    "Justin Reid": {
+        "num": "20",
+        "team": "kc",
+        "pos": "S",
+        "age": "26",
+        "height": "6' 1\"",
+        "weight": "207 lbs",
+        "exp": "6",
+        "college": "Stanford"
     },
     "Ben DiNucci": {
         "num": "11",
@@ -4229,6 +4949,16 @@
         "exp": "3",
         "college": "Virginia Tech"
     },
+    "Darius Harris": {
+        "num": "53",
+        "team": "lv",
+        "pos": "LB",
+        "age": "27",
+        "height": "6' 2\"",
+        "weight": "232 lbs",
+        "exp": "4",
+        "college": "Middle Tennessee"
+    },
     "Luke Masterson": {
         "num": "59",
         "team": "lv",
@@ -4928,6 +5658,16 @@
         "weight": "232 lbs",
         "exp": "9",
         "college": "UCLA"
+    },
+    "Blake Lynch": {
+        "num": "53",
+        "team": "lac",
+        "pos": "LB",
+        "age": "26",
+        "height": "6' 3\"",
+        "weight": "225 lbs",
+        "exp": "2",
+        "college": "Baylor"
     },
     "Khalil Mack": {
         "num": "52",
@@ -7529,13 +8269,13 @@
         "exp": "R",
         "college": "Georgia"
     },
-    "Scotty Washingto": {
-        "num": "n",
+    "Scotty Washington": {
+        "num": "81",
         "team": "pit",
         "pos": "TE",
         "age": "26",
         "height": "6' 5\"",
-        "weight": "245 lbs",
+        "weight": "217 lbs",
         "exp": "1",
         "college": "Wake Forest"
     },
@@ -7819,14 +8559,14 @@
         "exp": "5",
         "college": "North Carolina"
     },
-    "Caleb Johnso": {
-        "num": "n",
+    "Caleb Johnson": {
+        "num": "38",
         "team": "pit",
         "pos": "LB",
         "age": "25",
         "height": "6' 1\"",
         "weight": "235 lbs",
-        "exp": "R",
+        "exp": "3",
         "college": "Miami"
     },
     "Kyron Johnson": {
@@ -8729,6 +9469,16 @@
         "exp": "9",
         "college": "Oregon State"
     },
+    "D'Angelo Ross": {
+        "num": "37",
+        "team": "hou",
+        "pos": "CB",
+        "age": "29",
+        "height": "5' 9\"",
+        "weight": "190 lbs",
+        "exp": "2",
+        "college": "New Mexico"
+    },
     "Derek Stingley Jr.": {
         "num": "24",
         "team": "hou",
@@ -9308,6 +10058,16 @@
         "weight": "300 lbs",
         "exp": "3",
         "college": "Arkansas"
+    },
+    "Ross Blacklock": {
+        "num": "69",
+        "team": "ind",
+        "pos": "DT",
+        "age": "25",
+        "height": "6' 3\"",
+        "weight": "290 lbs",
+        "exp": "4",
+        "college": "TCU"
     },
     "Taven Bryan": {
         "num": "96",
@@ -9999,6 +10759,16 @@
         "exp": "2",
         "college": "Arkansas"
     },
+    "Henry Mondeaux": {
+        "num": "90",
+        "team": "jax",
+        "pos": "DE",
+        "age": "28",
+        "height": "6' 5\"",
+        "weight": "280 lbs",
+        "exp": "4",
+        "college": "Oregon"
+    },
     "Esezi Otomewo": {
         "num": "92",
         "team": "jax",
@@ -10089,7 +10859,7 @@
         "exp": "R",
         "college": "Colorado State"
     },
-    "Caleb Johnson": {
+    "Caleb Johnson JAX": {
         "num": "57",
         "team": "jax",
         "pos": "LB",
@@ -10400,7 +11170,7 @@
         "college": "Tulane"
     },
     "Jonathan Ward": {
-        "num": "33",
+        "num": "20",
         "team": "ten",
         "pos": "RB",
         "age": "26",
@@ -10820,13 +11590,13 @@
         "college": "Tulsa"
     },
     "Joe Jones": {
-        "num": "42",
+        "num": "52",
         "team": "ten",
         "pos": "LB",
         "age": "29",
         "height": "6' 0\"",
         "weight": "240 lbs",
-        "exp": "6",
+        "exp": "7",
         "college": "Northwestern"
     },
     "Arden Key": {
@@ -11949,8 +12719,8 @@
         "exp": "R",
         "college": "Tennessee"
     },
-    "Gunner Olszewsk": {
-        "num": "i",
+    "Gunner Olszewski": {
+        "num": "80",
         "team": "nyg",
         "pos": "WR",
         "age": "26",
@@ -12359,8 +13129,8 @@
         "exp": "2",
         "college": "North Carolina"
     },
-    "Justin Hollin": {
-        "num": "s",
+    "Justin Hollins": {
+        "num": "48",
         "team": "nyg",
         "pos": "LB",
         "age": "27",
@@ -12989,6 +13759,16 @@
         "exp": "2",
         "college": "Georgia"
     },
+    "Noah Elliss": {
+        "num": "61",
+        "team": "phi",
+        "pos": "DT",
+        "age": "24",
+        "height": "6' 4\"",
+        "weight": "346 lbs",
+        "exp": "2",
+        "college": "Idaho"
+    },
     "Moro Ojomo": {
         "num": "72",
         "team": "phi",
@@ -13098,6 +13878,16 @@
         "weight": "240 lbs",
         "exp": "7",
         "college": "Temple"
+    },
+    "Brandon Smith": {
+        "num": "47",
+        "team": "phi",
+        "pos": "LB",
+        "age": "22",
+        "height": "6' 3\"",
+        "weight": "241 lbs",
+        "exp": "2",
+        "college": "Penn State"
     },
     "Nolan Smith": {
         "num": "3",
@@ -16279,6 +17069,16 @@
         "exp": "4",
         "college": "Miami"
     },
+    "Bryant Koback": {
+        "num": "40",
+        "team": "sea",
+        "pos": "RB",
+        "age": "25",
+        "height": "6' 0\"",
+        "weight": "210 lbs",
+        "exp": "1",
+        "college": "Toledo"
+    },
     "Kenny McIntosh": {
         "num": "25",
         "team": "sea",
@@ -16498,6 +17298,16 @@
         "weight": "332 lbs",
         "exp": "R",
         "college": "LSU"
+    },
+    "Ben Brown": {
+        "num": "76",
+        "team": "sea",
+        "pos": "G",
+        "age": "25",
+        "height": "6' 5\"",
+        "weight": "313 lbs",
+        "exp": "2",
+        "college": "Ole Miss"
     },
     "McClendon Curtis": {
         "num": "66",
@@ -17788,6 +18598,16 @@
         "weight": "199 lbs",
         "exp": "6",
         "college": "Northwestern"
+    },
+    "Jermar Jefferson": {
+        "num": "39",
+        "team": "det",
+        "pos": "RB",
+        "age": "23",
+        "height": "5' 10\"",
+        "weight": "215 lbs",
+        "exp": "2",
+        "college": "Oregon State"
     },
     "Zonovan Knight": {
         "num": "28",
@@ -21718,6 +22538,16 @@
         "weight": "309 lbs",
         "exp": "9",
         "college": "Florida"
+    },
+    "Tommy Kraemer": {
+        "num": "62",
+        "team": "no",
+        "pos": "G",
+        "age": "25",
+        "height": "6' 6\"",
+        "weight": "316 lbs",
+        "exp": "3",
+        "college": "Notre Dame"
     },
     "Andrus Peat": {
         "num": "75",
